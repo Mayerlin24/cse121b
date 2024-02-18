@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: center;
+  }
+  
+  .form input {
+    margin-right: 10px;
+  }
+  
+  .form button {
+    padding: 5px 10px;
+    margin-top: 5px;
+  }
+  
+  .invoices {
+    margin-top: 20px;
+  }
+  
+  .invoices ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .invoices li {
+    margin-bottom: 5px;
+  }
